@@ -8,8 +8,8 @@ actors:
     name: yutannihilation
     url: https://twitter.com/yutannihilation
 author: r3 group
-description: R Radio for the Rest of us.
-description_long: RユーザによるRユーザのためのラジオ
+description: RユーザによるRユーザのためのラジオ
+description_long: RユーザによるRユーザのためのラジオ。Rについてわいわい話します。
 email: suika1127@gmail.com
 exclude:
   - Gemfile
