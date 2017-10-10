@@ -9,7 +9,7 @@ actors:
     url: https://twitter.com/yutannihilation
 author: r3 group
 description: RユーザによるRユーザのためのラジオ
-description_long: RユーザによるRユーザのためのラジオ。Rについてわいわい話します。
+description_long: RユーザによるRユーザのためのラジオです。Rについてわいわい話します。
 email: suika1127@gmail.com
 exclude:
   - Gemfile
@@ -19,7 +19,7 @@ exclude:
   - vendor
   - logo.pxm
   - r3.Rproj
-hashtag: r3
+hashtag: Rラジオ
 itunes_podcast_url:
 keywords: r,open-source,data-analysis,development,life
 language: ja
