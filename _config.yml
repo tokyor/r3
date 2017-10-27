@@ -7,6 +7,18 @@ actors:
     image_url: /images/actors/yutannihilation.jpg
     name: yutannihilation
     url: https://twitter.com/yutannihilation
+  DAISUKEICHIKAWA:
+    image_url: /images/actors/DAISUKEICHIKAWA.jpg
+    name: DAISUKEICHIKAWA
+    url: https://github.com/DAISUKEICHIKAWA
+  IshidaMotohiro:
+    image_url: /images/actors/IshidaMotohiro.jpg
+    name: IshidaMotohiro
+    url: https://github.com/IshidaMotohiro
+  _stakaya:
+    image_url: /images/actors/_stakaya.jpg
+    name: _stakaya
+    url: https://twitter.com/_stakaya
 author: r3 group
 description: RユーザによるRユーザのためのラジオ
 description_long: RユーザによるRユーザのためのラジオです。Rについてわいわい話します。
