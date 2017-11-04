@@ -1,0 +1,92 @@
+---
+actor_ids:
+  - uribo
+  - kazutan
+audio_file_path: /audio/3.mp3
+audio_file_size: 32329920
+date: 2017-11-04 19:30:00 +0900
+description: uriboとkazutanの2人で、ぞうさん通信、rmarkdownに対するこだわり、仕事の中でのRとの付き合いについて話しました。
+duration: "01:07:21"
+layout: article
+title: 3. ぞうさんのRとの付き合いかた
+---
+
+## 関連リンク
+
+- [R 2.8.0 is released](https://stat.ethz.ch/pipermail/r-announce/2008/000485.html)
+- [R Release History 1997-2013](http://timelyportfolio.github.io/rCharts_timeline_r/)
+- [ぞうさん通信](http://blog.kz-md.net/?page_id=1118)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ぞうさん通信のような立派なキュレーションがないとすべての情報を補足できないもんでして。。。</p>&mdash; 正しい習慣のNagi Teramo (@teramonagi) <a href="https://twitter.com/teramonagi/status/753396133897134081?ref_src=twsrc%5Etfw">July 14, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">お、次はぞうさん。<a href="https://twitter.com/hashtag/%E7%8A%AC4%E5%8C%B9%E6%9C%AC?src=hash&amp;ref_src=twsrc%5Etfw">#犬4匹本</a>　裏話とかあれば、聞けたら面白いかも<br>僕はぞうさん通信をよく知らないんですよね、そういえば。</p>&mdash; niszetr (@niszet0) <a href="https://twitter.com/niszet0/status/924797654013435904?ref_src=twsrc%5Etfw">October 30, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+- [RWeekly](https://rweekly.org)
+- [R勉強会@広島(#HijiyamaR)](https://atnd.org/events/57244)
+- [HiRoshima.R](https://hiroshimar.connpass.com)
+- [Bayesian Cognitive Modeling: A Practical Course(赤い本)](https://bayesmodels.com)
+- [魁!!広島ベイズ塾](https://sites.google.com/site/hiroshimabayes/)
+- [R勉強会@比治山大(広島) The Final #HijiyamaR](https://atnd.org/events/90406)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">メモ:<br>Rのariパッケージ(Amazon Pollyを介して文字を読み上げ、Rmdから動画を作れる)には<br>PhantomJS<br>ffmpeg<br>が必要。<br>前者はwebshot::install_phantomjsでインストール。後者はMacならhomebrewでインストールできる。</p>&mdash; Yuya MATSUMURA (@y__mattu) <a href="https://twitter.com/y__mattu/status/925065282871214080?ref_src=twsrc%5Etfw">October 30, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+- [\#おしえてぞうさん](https://twitter.com/hashtag/おしえてぞうさん)
+    - [\#おねがいぞうさん](https://twitter.com/hashtag/おねがいぞうさん)
+
+<script async class="speakerdeck-embed" data-slide="42" data-id="8ce026b16777412180b9c5a8205627ee" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+- [ベイズ統計モデリング―R,JAGS,Stanによるチュートリアル](http://www.kyoritsu-pub.co.jp/bookdetail/9784320113169)
+    - [ベイズ統計モデリング](https://kazutan.github.io/DBDA2E-ja/about.html)
+    - [\#犬4匹本](https://twitter.com/hashtag/犬4匹本)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">あ、そうでした、弊社ブースにて『ベイズ統計モデリング』<a href="https://t.co/Ndzk2HmixO">https://t.co/Ndzk2HmixO</a> をお買い求めいただきましたお客さまに、先着でオリジナル「マグカップ」をプレゼントしています。重ねましてよろしくお願いいたします！♪ (*&#39;▽&#39;) <a href="https://t.co/mYpapsU8NH">pic.twitter.com/mYpapsU8NH</a></p>&mdash; 共立出版アリがと蟻 (@1738310) <a href="https://twitter.com/1738310/status/904864104090812416?ref_src=twsrc%5Etfw">September 5, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">本を買ってマグカップをもらおう!<br>『ベイズ統計モデリング』8856円（共立出版）<br>内でも盛んになってきているベイズアプローチを用いた分析の入門書。 <br>『ベイズ統計モデリング』をお買い上げの方にオリジナルマグカップ差し上げています!<a href="https://t.co/4MrlN6hk8B">https://t.co/4MrlN6hk8B</a> <a href="https://t.co/Gyxq6VGXaI">pic.twitter.com/Gyxq6VGXaI</a></p>&mdash; 書泉グランデMATH (@rikoushonotana) <a href="https://twitter.com/rikoushonotana/status/922666518349008897?ref_src=twsrc%5Etfw">October 24, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">どちくしょおおおおお！ほんまに！ほんまに！これだけは言わせろ，「開いたかっこは閉じろ！！！！」</p>&mdash; kosugitti (@kosugitti) <a href="https://twitter.com/kosugitti/status/769080786201022465?ref_src=twsrc%5Etfw">August 26, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+- [jupyter](http://jupyter.org)
+- [Japan.R 2017](https://japanr.connpass.com/event/70230/)
+- [2017年度 データ解析環境Rの整備と利用](https://prs.ism.ac.jp/useRjp/hiki.cgi?2017%C7%AF%C5%D9+%A5%C7%A1%BC%A5%BF%B2%F2%C0%CF%B4%C4%B6%ADR%A4%CE%C0%B0%C8%F7%A4%C8%CD%F8%CD%D1)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">RStudio、最近使ったプロジェクトを10個表示してくれてクリック一つで開けるんだけど、プロジェクト作りまくってるので10個じゃ全然足りない・・</p>&mdash; h(o x o_)m＜ 🎃 (@hoxo_m) <a href="https://twitter.com/hoxo_m/status/922765232140722176?ref_src=twsrc%5Etfw">October 24, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">RからMediumにMarkdownを投稿するパッケージmediumrがあったので、Mediumにアカウントをつくった</p>&mdash; ホクそうむ (@R_Linux) <a href="https://twitter.com/R_Linux/status/923338404237950977?ref_src=twsrc%5Etfw">October 26, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+- [medium@kazutan](https://medium.com/@kazutan)
+
+## 質問への回答
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ライバルは何色のぞうさんですか？</p>&mdash; Hiroaki Yutani (@yutannihilation) <a href="https://twitter.com/yutannihilation/status/924800777847152640?ref_src=twsrc%5Etfw">October 30, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+黄色のぞう `emo::ji("elephant")`には敵わない。青色の`emo::ji("elephant")`と仲良くしたい。
+
+> なぜ、`r emo::ji("elephant")` (今のアイコン)?
+
+家にちょうど良いぬいぐるみがあったため。貰い物の人形。ぞうさんで認識されて変えられなくなってしまった。
+
+> 最近注目しているパッケージは?
+
+ari。注目しているのとは別にDiagrammeRパッケージのドキュメントを翻訳したい。
+
+> エンジニアになりたい?
+
+エンジニアリングは趣味として。仕事に活かしたい。昔はVBAをよく使っていた。業務改善のため。
+
+> rmarkdown 書いたり, パッケージを作るのは楽しいですが、仕事としては国内に需要はどのくらいあるのでしょうか <https://ask.fm/account/private-questions/142583050220>
+
+rmarkdownで食っていくことは厳しい。単独の技術ではなく、業務の中で幅広く使える技術。ドキュメンテーションは仕事で必ず必要。rmarkdownを覚えておくと色々な業務で役に立つ。
+
+## 話題となったパッケージ
+
+- [ari](https://cran.r-project.org/web/packages/ari/index.html)
+- [rmarkdown](https://cran.r-project.org/web/packages/rmarkdown/index.html)
+- [DiagrammeR](https://cran.r-project.org/web/packages/DiagrammeR/index.html)
+    - [DiagrammeR入門 画像ファイルなどへの出力](https://qiita.com/kazutan/items/236512ba34314ae9bdcb)
+    - [DiagrammeR入門 nodeの属性まとめ](https://qiita.com/kazutan/items/feea8a3d40143f1f7978)
+- [zousan](https://github.com/kazutan/zousan)
+- [mediumr](https://github.com/yutannihilation/mediumr)
+    - [RからMediumにMarkdownを投稿するパッケージmediumrをつくりました](http://notchained.hatenablog.com/entry/2017/10/25/233504)
+    - [RからMediumにMarkdownを投稿する](http://notchained.hatenablog.com/entry/2017/10/22/212450)
+- [icon]()https://github.com/ropenscilabs/icon
+- [searcher]()https://github.com/coatless/searcher
