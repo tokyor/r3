@@ -19,6 +19,10 @@ actors:
     image_url: /images/actors/stakaya.jpg
     name: _stakaya
     url: https://twitter.com/_stakaya
+  kazutan:
+    image_url: /images/actors/kazutan.png
+    name: kazutan
+    url: https://twitter.com/kazutan
 author: r3 group
 description: RユーザによるRユーザのためのラジオ
 description_long: RユーザによるRユーザのためのラジオです。Rについてわいわい話します。
