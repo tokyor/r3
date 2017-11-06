@@ -23,6 +23,10 @@ actors:
     image_url: /images/actors/kazutan.png
     name: kazutan
     url: https://twitter.com/kazutan
+  piroyoung:
+    image_url: /images/actors/piroyoung.jpg
+    name: piroyoung
+    url: https://github.com/piroyoung
 author: r3 group
 description: RユーザによるRユーザのためのラジオ
 description_long: RユーザによるRユーザのためのラジオです。Rについてわいわい話します。
