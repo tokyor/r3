@@ -27,6 +27,10 @@ actors:
     image_url: /images/actors/piroyoung.jpg
     name: piroyoung
     url: https://github.com/piroyoung
+  MatsuraKentaro:
+    image_url: /images/actors/MatsuraKentaro.jpg
+    name: MatsuraKentaro
+    url: http://statmodeling.hatenablog.com
 author: r3 group
 description: RユーザによるRユーザのためのラジオ
 description_long: RユーザによるRユーザのためのラジオです。Rについてわいわい話します。
