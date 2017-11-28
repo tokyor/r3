@@ -31,19 +31,19 @@ actors:
     image_url: /images/actors/MatsuuraKentaro.jpg
     name: MatsuuraKentaro
     url: http://statmodeling.hatenablog.com
-  y__mattu
+  y__mattu:
     image_url: /images/actors/y__mattu.png
     name: Yuya Matsumura
     url: https://ymattu.github.io/
-  koriakane
+  koriakane:
     image_url: /images/actors/koriakane.png
     name: aca
     url: https://twitter.com/koriakane
-  kotatyamtema
+  kotatyamtema:
     image_url: /images/actors/kotatyamatema.jpg
     name: kotatyamatema
     url: https://twitter.com/kotatyamatema
-  kilometer
+  kilometer:
     image_url: /images/actors/kilometer.jpeg
     name: kilometer
     url: https://twitter.com/kilometer00
