@@ -31,6 +31,23 @@ actors:
     image_url: /images/actors/MatsuuraKentaro.jpg
     name: MatsuuraKentaro
     url: http://statmodeling.hatenablog.com
+  y__mattu
+    image_url: /images/actors/y__mattu.png
+    name: Yuya Matsumura
+    url: https://ymattu.github.io/
+  koriakane
+    image_url: /images/actors/koriakane.png
+    name: aca
+    url: https://twitter.com/koriakane
+  kotatyamtema
+    image_url: /images/actors/kotatyamatema.jpg
+    name: kotatyamatema
+    url: https://twitter.com/kotatyamatema
+  kilometer
+    image_url: /images/actors/kilometer.jpeg
+    name: kilometer
+    url: https://twitter.com/kilometer00
+
 author: r3 group
 description: RユーザによるRユーザのためのラジオ
 description_long: RユーザによるRユーザのためのラジオです。Rについてわいわい話します。
