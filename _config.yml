@@ -47,7 +47,10 @@ actors:
     image_url: /images/actors/kilometer.jpeg
     name: kilometer
     url: https://twitter.com/kilometer00
-
+  KanAugust:
+    image_url: /images/actors/KanAugust.jpg
+    name: KanAugust
+    url: https://exploratory.io/
 author: r3 group
 description: RユーザによるRユーザのためのラジオ
 description_long: RユーザによるRユーザのためのラジオです。Rについてわいわい話します。
