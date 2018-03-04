@@ -64,7 +64,7 @@ exclude:
   - logo.pxm
   - r3.Rproj
 hashtag: Rラジオ
-itunes_podcast_url:
+itunes_podcast_url: https://itunes.apple.com/jp/podcast/r-radio-for-the-rest-of-us/id1326596067
 keywords: r,open-source,data-analysis,development,life
 language: ja
 markdown: kramdown
