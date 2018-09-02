@@ -2,13 +2,14 @@
 
 RユーザによるRユーザのためのラジオ。Rについてわいわい話します。
 
-<img src="images/header.png" width="500px" />
+<p align="center"><img src="images/header.png" width="500px" /></p>
 
-https://rlangradio.org
+<p align="center"><b>https://rlangradio.org</b></p>
 
 **ゲスト募集中**です！
 
 ## ラジオの更新の仕方
+
 - このレポジトリを `git clone` します
 - 収録したラジオをMP3形式にして `audio` ディレクトリ下に配置します
 - `_posts` 下に他の記事に習って記事を書きます
