@@ -23,6 +23,10 @@ actors:
     image_url: /images/actors/kazutan.png
     name: kazutan
     url: https://twitter.com/kazutan
+  doradora09:
+    image_url: /images/actors/doradora09.jpg
+    name: doradora09
+    url: https://twitter.com/doradora09
   piroyoung:
     image_url: /images/actors/piroyoung.jpg
     name: piroyoung
