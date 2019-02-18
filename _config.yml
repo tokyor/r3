@@ -55,6 +55,10 @@ actors:
     image_url: /images/actors/KanAugust.jpg
     name: KanAugust
     url: https://exploratory.io/
+  kyn02666:
+    image_url: /images/actors/kyn02666.jpg
+    name: kyn02666
+    url: https://twitter.com/kyn02666
 author: r3 group
 description: RユーザによるRユーザのためのラジオ
 description_long: RユーザによるRユーザのためのラジオです。Rについてわいわい話します。
